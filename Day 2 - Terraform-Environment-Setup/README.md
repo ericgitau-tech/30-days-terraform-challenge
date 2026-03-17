@@ -45,7 +45,7 @@ Using root credentials for automation is a security anti-pattern. A dedicated IA
 
 AWS generates two values on user creation — **Access Key ID** and **Secret Access Key** — which are used to configure the CLI. These are only shown once.
 
-![IAM Access Key Retrieval](images/iam_keys.png)
+![IAM Access Key Retrieval](iam_keys.png)
 
 > ⚠️ **Security reminder:** Never store access keys in plain text, a code repository, or source code. Download the `.csv` immediately and store it securely.
 
@@ -144,7 +144,7 @@ Two extensions were installed to improve the Terraform development workflow:
 - **HashiCorp Terraform** — syntax highlighting, IntelliSense, auto-formatting, module explorer
 - **AWS Toolkit** — CodeCatalyst, Infrastructure Composer, Lambda, S3, CloudWatch Logs, and more
 
-![VS Code Extensions — HashiCorp Terraform and AWS Toolkit](images/vscode_extensions.png)
+![VS Code Extensions — HashiCorp Terraform and AWS Toolkit](vscode_extensions.png)
 
 ---
 
