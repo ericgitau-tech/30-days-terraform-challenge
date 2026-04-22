@@ -176,14 +176,7 @@ The remaining two days will be used to eliminate the weakest domains entirely an
 
 ---
 
-## 🔗 Connect
 
-If you're also on a Terraform certification journey or interested in Infrastructure as Code, let's connect:
-
-- 💼 [LinkedIn](#) *(add your link)*
-- 🐦 [Twitter / X](#) *(add your handle)*
-- 📝 [Blog Post: My Exam Prep Process](#) *(add your blog link)*
-- 🌍 [GitHub — Full 30-Day Challenge Repo](#) *(add your repo link)*
 
 ---
 
