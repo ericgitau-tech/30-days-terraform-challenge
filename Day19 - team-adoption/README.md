@@ -512,10 +512,3 @@ The cultural shift matters as much as the technical one. Give the team time to l
 
 ---
 
-## Social Media Post
-
-> 🚀 Day 19 of the 30-Day Terraform Challenge — IaC adoption strategy. The technical part of Terraform is the easy part. Convincing a team to change how they work, building trust in automated deployments, migrating existing infrastructure incrementally — that is where the real challenge is. #30DayTerraformChallenge #TerraformChallenge #Terraform #IaC #DevOps #PlatformEngineering #AWSUserGroupKenya #EveOps
-
----
-
-*Completed as part of the [30-Day Terraform Challenge](https://github.com/gitauadmin). Region: EU West 1 (eu-west-1).*
