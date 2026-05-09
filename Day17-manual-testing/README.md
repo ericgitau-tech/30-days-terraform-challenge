@@ -399,10 +399,6 @@ aws elbv2 describe-load-balancers \
 
 ---
 
-## Social Media Post
-
-> 🔍 Day 17 of the 30-Day Terraform Challenge — manual testing deep dive. Built a structured test checklist, ran it against dev and production environments, documented every pass and failure. Manual testing is not optional — it is the foundation everything else is built on. #30DayTerraformChallenge #TerraformChallenge #Terraform #Testing #DevOps #IaC #AWSUserGroupKenya #EveOps
 
 ---
 
-*Part of the [30-Day Terraform Challenge](https://github.com/ericgitau-tech) | Eric Gitau*
