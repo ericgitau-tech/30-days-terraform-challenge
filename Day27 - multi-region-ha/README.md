@@ -195,10 +195,4 @@ Good luck.
 
 ---
 
-## Social Media Post
 
-> 🎉 Day 30 of the 30-Day Terraform Challenge — complete. Five practice exams, 30 days of builds, modules, state management, testing, CI/CD, and a full certification prep programme. Thank you to AWS AI/ML UserGroup Kenya, Meru HashiCorp User Group, and EveOps for making this happen. Now let's go pass that exam. #30DayTerraformChallenge #TerraformChallenge #Terraform #TerraformAssociate #IaC #DevOps #AWSUserGroupKenya #MeruHashiCorp #EveOps
-
----
-
-*30-Day Terraform Challenge — Complete | [Eric Gitau](https://github.com/ericgitau-tech)*
