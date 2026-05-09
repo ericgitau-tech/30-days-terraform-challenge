@@ -760,10 +760,4 @@ Error: error deleting S3 Bucket: BucketNotEmpty
 
 ---
 
-## Social Media Post
 
-> 🚀 Day 25 of the 30-Day Terraform Challenge — deployed a globally distributed static website on S3 + CloudFront entirely with Terraform. Modular code, remote state, environment isolation, public access policies, CloudFront HTTPS redirect, and clean destroy with force_destroy. Seven resources, one terraform apply. #30DayTerraformChallenge #TerraformChallenge #Terraform #AWS #S3 #CloudFront #IaC #DevOps #AWSUserGroupKenya #EveOps
-
----
-
-*Completed as part of the [30-Day Terraform Challenge](https://github.com/gitauadmin). Region: EU West 1 (`eu-west-1`).*
