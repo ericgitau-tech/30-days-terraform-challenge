@@ -608,10 +608,3 @@ terraform init
 
 ---
 
-## Social Media Post
-
-> 🚀 Day 18 of the 30-Day Terraform Challenge — automated testing end to end. Native `terraform test` for unit tests, Terratest for integration tests, GitHub Actions for CI/CD. Infrastructure that is tested automatically on every commit is infrastructure you can deploy with confidence. #30DayTerraformChallenge #TerraformChallenge #Terraform #Testing #DevOps #CI/CD #AWSUserGroupKenya #EveOps
-
----
-
-*Part of the [30-Day Terraform Challenge](https://github.com/ericgitau-tech) | Eric Gitau*
