@@ -292,10 +292,4 @@ Manual console deletion, `terraform state rm`, and removing the resource block f
 
 ---
 
-## Social Post
 
-> ⚡️ Day 29 of the 30-Day Terraform Challenge — four practice exams in two days: 74%, 77%, 81%, 79%. Identified persistent gaps in state commands, import behaviour, and provider version constraints. Ran targeted hands-on exercises to close them. One day left before the final push. #30DayTerraformChallenge #TerraformChallenge #Terraform #TerraformAssociate #CertificationPrep #AWSUserGroupKenya #EveOps
-
----
-
-*Part of the [30-Day Terraform Challenge](https://github.com/gitauadmin/terraform-challenge) | eu-west-1*
