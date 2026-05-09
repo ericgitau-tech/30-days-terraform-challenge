@@ -289,11 +289,3 @@ Most teams run `terraform plan` in CI, get approval on the plan output, then run
 The correct model is to save the plan file, treat it as an immutable build artifact, and apply that exact file in production. The same binary discipline that prevents "it works on my machine" in application code prevents "the plan looked fine when we reviewed it" in infrastructure code. The artifact is the review. The review is the artifact. They must be the same object.
 
 ---
-
-## Social Post
-
-> 🎉 Day 22 of the 30-Day Terraform Challenge — finished the book. Combined application and infrastructure deployment workflows into one integrated pipeline with CI, Sentinel policies, cost gates, and immutable plan promotion across environments. 22 days in and it is just getting interesting. #30DayTerraformChallenge #TerraformChallenge #Terraform #DevOps #IaC #AWSUserGroupKenya #EveOps
-
----
-
-*Part of the [30-Day Terraform Challenge](https://github.com/gitauadmin/terraform-challenge) | eu-west-1*
